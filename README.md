@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi I am Brodie and I am a recent Grad from BYU-I
+- 🌱 I’m currently learning Game Design
+- :key: 
 <!--
 **brodiembusby/brodiembusby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
