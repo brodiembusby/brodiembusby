@@ -1,5 +1,5 @@
 ## Hi I'm Brodie!
-- :key: Recent Grad from BYU-I<br/>
+- :key: Grad from BYU-I<br/>
 - :newspaper: Degree in Software Engineering<br/>
 - :newspaper: Certificate in Software Design<br/>
 - :newspaper: Certificate in Embedded Systems<br/>
