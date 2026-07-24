@@ -16,6 +16,5 @@
 # 📊 GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.vercel.app?user=brodiembusby&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brodiembusby&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brodiembusby&show_icons=true&theme=tokyonight)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
